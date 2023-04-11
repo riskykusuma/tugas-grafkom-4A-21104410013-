@@ -4,8 +4,8 @@ function setup() {
 }
 
 function draw() {
-  // memberikan warna background terserah, dalam contoh ini 		warna ungu
+  // memberikan warna background warna ungu
   background(128, 0, 128);
-  // membuat lingkaran dengan diameter 200 piksel
+  // membuat bentuk lingkaran 
   ellipse(width/2, height/2, 200, 200); 
 }
